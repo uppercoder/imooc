@@ -1,0 +1,26 @@
+{
+  "name": "imooc",
+  "description": "imooc movie",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "imooc"
+  ],
+  "authors": [
+    "yh"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

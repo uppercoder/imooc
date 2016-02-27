@@ -1,0 +1,33 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "imooc movie",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.0",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "moment": "^2.11.2",
+    "mongoose": "^4.4.4",
+    "node-gyp": "^3.3.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-concurrent": "^2.2.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-nodemon": "^0.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imooc",
+    "movie"
+  ],
+  "author": "yh",
+  "license": "ISC"
+}
